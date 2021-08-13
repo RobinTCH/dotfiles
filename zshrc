@@ -66,3 +66,5 @@ export LC_ALL=en_US.UTF-8
 export BUNDLER_EDITOR=code
 sudo /etc/init.d/postgresql start
 export DISPLAY=172.30.64.1:0
+export DISPLAY=172.31.176.1:0
+export DISPLAY=172.31.176.1:0
